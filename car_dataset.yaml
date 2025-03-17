@@ -1,0 +1,8 @@
+path: /content/Dataset/1/Traffic Dataset/images
+train: /content/Dataset/1/Traffic Dataset/images/train
+val: /content/Dataset/1/Traffic Dataset/images/val
+test: /content/test 
+
+# Classes
+nc: 7  # number of classes
+names: [ 'Class_1','Class_1','Class_1','Class_1','Class_1','Class_1','Class_1']
